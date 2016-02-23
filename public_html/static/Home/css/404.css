@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/*reset*/
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}
+body{font:12px/1.5 'helvetica neue',tahoma,'hiragino sans gb',stheiti,'wenquanyi micro hei',\5FAE\8F6F\96C5\9ED1,\5B8B\4F53,sans-serif;background-color: #fff;}
+img{border:none;vertical-align: middle;max-width: 100%;}
+li{list-style:none;}
+input,select,textarea{vertical-align:middle;outline:none;}
+textarea{resize:none;}
+a{text-decoration:none;outline:none;}
+a {blr:expression(this.onFocus=this.blur())} /* IE */
+.fl{float:left;}
+.fr{float:right;}
+
+/*clearfix*/
+.clearfix:after{content:"";display:block;clear:both;}
+.clearfix{*zoom:1;}
+/*404*/
+.wrap{height: 318px;background: url('../images/404.jpg') center center no-repeat;position: relative;margin-top: 150px;}
+.wrap .tip{position: absolute;font-size: 14px;left: 688px;}
+.wrap .tip1{top: 153px;}
+.wrap .tip2{top: 180px;}
+.wrap .tip3{top: 203px;}
+.comWidth{width: 1190px;margin-left: auto;margin-right: auto;}

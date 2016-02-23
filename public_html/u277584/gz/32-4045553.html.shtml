@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>测试前缀429#2015现货欧洲站亮片翅膀棉麻T+黑白条纹短裙两件套装我是后缀</title>
+    <meta name="renderer" content="webkit">
+    <meta name="viewport"
+          content="width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0">
+    <!-- 是否启动webapp功能，会删除默认的苹果工具栏和菜单栏 -->
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!-- 忽略页面中的数字识别为电话号码 -->
+    <meta name="format-detection" content="telephone=no,email=no"/>
+    <!-- uc强制竖屏 -->
+    <meta name="screen-orientation" content="portrait">
+    <!-- QQ强制竖屏 -->
+    <meta name="x5-orientation" content="portrait">
+   
+    <meta name="author" content="银狐">
+    <meta name="robots" content="all">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link rel="stylesheet" href="/static/Home/css/swiper.min.css">
+    <link rel="stylesheet" href="/static/Home/css/product.css?t=20160122">
+    <script src="/static/Home/js/fontSize.js?t=20160114"></script>
+    <script>
+        var pic = [{"img":"http://img.alicdn.com/imgextra/i1/786861953/TB2ETF_dXXXXXXtXpXXXXXXXXXX_!!786861953.jpg"},{"img":"http://img.alicdn.com/imgextra/i3/786861953/TB2INX2dXXXXXbjXpXXXXXXXXXX_!!786861953.jpg"},{"img":"http://img.alicdn.com/imgextra/i4/786861953/TB2s2t.dXXXXXcJXXXXXXXXXXXX_!!786861953.jpg"},{"img":"http://img.alicdn.com/imgextra/i4/786861953/TB20uF5dXXXXXadXpXXXXXXXXXX_!!786861953.jpg"},{"img":"http://img.alicdn.com/imgextra/i4/786861953/TB2jbx5dXXXXXaLXpXXXXXXXXXX_!!786861953.jpg"},{"img":"http://img.alicdn.com/imgextra/i3/786861953/TB2qAGddXXXXXbQXXXXXXXXXXXX_!!786861953.jpg"},{"img":"http://img.alicdn.com/imgextra/i2/786861953/TB296aodXXXXXXiXXXXXXXXXXXX_!!786861953.jpg"},{"img":"http://img.alicdn.com/imgextra/i3/786861953/TB2uwijdXXXXXaiXXXXXXXXXXXX_!!786861953.jpg"}];
+        var str = '32-4045553';
+    </script>
+</head>
+<body>
+<div id="wrap">
+    <!-- 商品图片-->
+    <section class="pro_img">
+        <!-- Swiper -->
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                    <img src="https://img.alicdn.com/bao/uploaded/i4/TB1uuR8IXXXXXatXVXXXXXXXXXX_!!0-item_pic.jpg_320x320.jpg" alt="">
+                </div>            </div>
+            <!-- 分页 -->
+            <div class="swiper-pagination"></div>
+        </div>
+    </section>
+    <!-- 商品标题-->
+    <section class="sec text">
+        <h3 class="pro_title">测试前缀429#2015现货欧洲站亮片翅膀棉麻T+黑白条纹短裙两件套装我是后缀</h3>
+        <strong class="pro_price">￥73</strong>
+    </section>
+     <!-- 用户头像、昵称-->
+    <section class="sec avatar clearfix">
+        <div class="avatar-img fl"><img src="http://csvftp.17zwd.com/File/vip.17zwd.com/Avatar/aedc5eecac7b4e229cf2beacc1afbd4b(120X120).png" alt=""></div>
+        <span class="nick fl">dashabi123</span>
+    </section>    <!-- 店主信息 -->
+    <section class="sec shop_owner_information">
+        <h2 class="shop_owner_title">店主信息</h2>
+        <div class="infoBox">
+            <span class="info"><i class="phone_icon"></i><a href="tel:13428281929">13428281929</a></span>            <span class="info"><i class="wang_icon"></i><em>12345678</em></span>            <span class="info"><i class="qq_icon"></i><em>741122532</em></span>            <span class="info"><i class="wx_icon"></i><em>kyohou</em></span>        </div>
+    </section>
+    <!-- 店招公告-->
+    <section class="sec shop_announcement"><h2 class="shop_announcement">店招公告</h2><p>呵呵哒,呵呵哒</p></section>    
+    
+    <!-- 宝贝详情 -->
+        <!-- 已下架 -->
+    <div class="off">
+        宝贝已下架
+    </div></div>
+<script src="/static/Home/js/jquery.js"></script>
+<script src="/static/Home/js/swiper.min.js"></script>
+<script src="/static/Home/js/jquery.lazyload.js?v=1.9.1"></script>
+<script src="/static/Home/js/product_s.js?v=1.0.6"></script>
+<span style="display: none">
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?cdb4a077a2e6221083922d763bdbfa18";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</span>
+</body>
+</html>
